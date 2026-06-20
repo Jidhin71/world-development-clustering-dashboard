@@ -42,8 +42,8 @@ An interactive Streamlit dashboard that analyzes global development indicators (
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+git clone https://github.com/Jidhin71/world-development-clustering-dashboard.git
+cd world-development-clustering-dashboard
    ```
 
 2. Create a virtual environment (optional but recommended)
