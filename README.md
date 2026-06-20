@@ -2,7 +2,7 @@
 
 An interactive Streamlit dashboard that analyzes global development indicators (GDP, CO2 emissions, health expenditure, population, internet usage, etc.) and groups countries into development clusters using **KMeans**, **Hierarchical Clustering**, and **DBSCAN**. The app also includes a predictor tool to classify a country's (or custom input's) development level.
 
-🔗 **Live App:** [Add your Streamlit Cloud link here](https://your-app-name.streamlit.app)
+🔗 **Live App:** (https://world-development-clustering-dashboard.streamlit.app)
 
 ---
 
@@ -79,15 +79,8 @@ openpyxl
 
 ---
 
-## ☁️ Deployment on Streamlit Cloud
 
-1. Push this project (including the dataset, `.pkl` files, and `requirements.txt`) to a public GitHub repository.
-2. Go to [share.streamlit.io](https://share.streamlit.io) and sign in with GitHub.
-3. Click **New app**, select your repository, branch, and set the main file path to `dashboard_app.py`.
-4. Click **Deploy**.
-5. Once live, copy the app URL and update the **Live App** link at the top of this README.
 
----
 
 ## 🧠 Tech Stack
 
