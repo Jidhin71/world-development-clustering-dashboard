@@ -39,14 +39,16 @@ An interactive Streamlit dashboard that analyzes global development indicators (
 ---
 
 ## ⚙️ Installation (Run Locally)
-
+---
 1. Clone the repository
-   ```bash
+   
+```bash
 git clone https://github.com/Jidhin71/world-development-clustering-dashboard.git
 cd world-development-clustering-dashboard
    ```
 
 2. Create a virtual environment (optional but recommended)
+
    ```bash
    python -m venv venv
    source venv/bin/activate   # On Windows: venv\Scripts\activate
